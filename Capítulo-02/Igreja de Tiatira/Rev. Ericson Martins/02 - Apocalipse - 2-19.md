@@ -18,9 +18,12 @@ A mensagem para igreja começa a dizendo: "Conheço as suas obras o teu amor a t
    
 6. Últimas obras, mais numerosas do que as primeias: Progresso nas obras, as primeiras não eram tão numerosas quanto as ultimas. Através do testemunho e perseverança a igreja estava crescendo
 
-https://youtu.be/F2NJyftPy3g?t=1707
+Do ponto de vista interno, o aspecto positivo dessa igreja é que ela tinha amor por Cristo e  tinha uma fé perseverante, uma fé bíblica saudável e agora do ponto de vista externo ela exercia sua fé e ela era perseverante. Essas eram, portanto, as obras desta igreja e Cristo de forma precisa declara para ela conhecer tudo que positivamente ela estava vivenciando naqueles dias, foi uma igreja de fato virtuosa.
 
-(28:47) positivo o aspecto positivo dessa igreja é que ela tinha amor por cristo e ela tinha uma fé perseverante uma fé bíblica saudável né e agora do ponto de vista externo ela exercia sua fé e ela era perseverante essas eram portanto as obras desta igreja e cristo de forma precisa declara para ela conhecer tudo
-(29:14) que positivamente ela estava vivenciando naqueles dias foi uma igreja de fato virtuosa ah mas isso não significa dizer que a igreja não esteja sujeita a pecados há faltas né que precisam ser corrigidas nenhuma igreja nenhuma igreja está isenta de problemas problemas de relacionamentos problemas doutrinários
-(29:48) problemas no tocante a sua prática o exercício da sua fé e não é diferente não foi diferente para a igreja de tiatira e não é diferente para nenhuma das nossas igrejas hoje a necessidade de voltar as escrituras e é restaurar é continuamente a sua prática observando atenciosamente o ensino da palavra de
-(30:17) deus assim foi com a igreja de tiatira uma igreja tão virtuosa nas suas obras e na sua fé interna e externamente mas ela tinha problema que precisavam ser corrigidos é isso que nós encontramos no verso 20 por isso é jesus aqui ele é revelou pecados que precisavam ser tratados tenho porém contra ti primeiro
+Mas isso não significa dizer que a igreja não esteja sujeita a pecados, há faltas que precisam ser corrigidas, nenhuma igreja está isenta de problemas, problemas de relacionamentos, problemas doutrinários, problemas no tocante a sua prática o exercício da sua fé e não foi diferente para a igreja de Tiatira, e não é diferente para nenhuma das nossas igrejas hoje. A necessidade de voltar as escrituras e restaurar e continuamente a sua prática observando atenciosamente o ensino da Palavra de Deus. 
+
+https://youtu.be/F2NJyftPy3g?t=1825
+
+Assim foi com a igreja de Tiatira, uma igreja tão virtuosa nas suas obras e na sua fé, interna e externamente, mas ela tinha problema que precisavam ser corrigidos. 
+
+é isso que nós encontramos no verso 20 por isso é jesus aqui ele é revelou pecados que precisavam ser tratados tenho porém contra ti primeiro
