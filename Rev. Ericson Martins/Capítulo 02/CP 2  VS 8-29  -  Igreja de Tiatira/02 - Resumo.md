@@ -1,8 +1,8 @@
 # À Igreja de Tiatira | Apocalípse 2:8-29
 
 # Apocalipse
-## Capítulo 02
-### As 7 Cartas do Apocalipse - À Igreja de Tiatira | Rev. Ericson Martins
+## Rev. Ericson Martins
+### Apocalípse 2:8-29
 #### Revisão da Carta a Pérgamo
 
 - A Igreja de Pérgamo era fiel a Deus, resistindo a pressões externas e não negando a fé.
