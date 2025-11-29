@@ -1,8 +1,4 @@
-As 7 Cartas do Apocalipse - À Igreja de Tiatira | Rev. Ericson Martins - YouTube
-
-https://www.youtube.com/watch?v=F2NJyftPy3g&t=33s
-
-Transcript:
+# [À Igreja de Tiatira | Apocalípse 2:8-29](https://www.youtube.com/watch?v=F2NJyftPy3g&t=33s)
 
 00:00:00 o olá meu nome é edson e sou pastor da primeira igreja presbiteriana de goiânia é uma alegria muito grande estar com você e mais esta oportunidade quando estamos estudando sobre as sete cartas do apocalipse na no vídeo anterior nós estudamos a respeito da carta que havia sido destinada para a igreja que se encontrava na cidade de pérgamo esta igreja era uma igreja bastante fiel a deus é resistindo às pressões externas não negando a sua fé na pessoa do senhor jesus mas havia dentro da igreja aqueles que sustentavam a doutrina dos
 

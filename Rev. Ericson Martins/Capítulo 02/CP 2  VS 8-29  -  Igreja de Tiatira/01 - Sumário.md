@@ -1,4 +1,4 @@
-# [As 7 Cartas do Apocalipse - À Igreja de Tiatira | Rev. Ericson Martins](https://www.youtube.com/watch?v=F2NJyftPy3g&t=33s)
+# [À Igreja de Tiatira | Apocalípse 2:8-29](https://www.youtube.com/watch?v=F2NJyftPy3g&t=33s)
 
 
 * [00:33](https://youtu.be/F2NJyftPy3g?t=33)    - Recapitulação da igreja de Pérgamo e Oração inicial
