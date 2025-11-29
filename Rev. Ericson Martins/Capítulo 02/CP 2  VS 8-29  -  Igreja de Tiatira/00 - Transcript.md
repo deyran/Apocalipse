@@ -1,4 +1,5 @@
-(5) As 7 Cartas do Apocalipse - À Igreja de Tiatira | Rev. Ericson Martins - YouTube
+As 7 Cartas do Apocalipse - À Igreja de Tiatira | Rev. Ericson Martins - YouTube
+
 https://www.youtube.com/watch?v=F2NJyftPy3g&t=33s
 
 Transcript:
