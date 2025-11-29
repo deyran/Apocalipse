@@ -1,13 +1,11 @@
-# [Apocalipse 2:18](https://youtu.be/F2NJyftPy3g?t=1261)
+# À Igreja de Tiatira - Apocalipse 2:18
 
- O texto começa dizendo ao anjo da igreja em tiatira escreve, mais uma vez temos aqui né como já foi dito nos vídeos anteriores um padrão, Cristo está se dirigindo as igrejas através (...) das visões e daquilo que ele [João] está ouvindo da parte de cristo. 
- 
- (...) Esses registros foram encaminhados aos anjos das igrejas, as sete igrejas da ásia. Anjo aqui não se refere à criatura celestial mas aos mensageiros [...]  aplicado portanto aos pastores aos presbíteros responsáveis por aquelas igrejas e eles então deveriam ler o texto publicamente e a igreja ouvir atenciosamente. Jesus [...] se identifica como Filho de Deus, esse título é distintivo nas escrituras é para identificar Jesus no tocante à sua natureza divina, ao falar que ele é Filho de Deus  está aqui dizendo que ele é da mesma natureza do pai, da mesma divindade possuindo as mesmas virtudes, total sabedoria total, poder de presença em todos os lugares, e assim Jesus é descrito como sendo o Filho de Deus, tendo uma relação de igualdade com o pai. 
- 
- Também, Jesus se identifica aqui para a igreja em Tiatira tendo olhos como chama de fogo e os pés semelhantes ao bronze polido, isso é que nós lemos no verso 18, ambas descrições se referem a ações de julgamento contra o pecado. Jesus, portanto, ao se descrever assim como tendo olhos como chama de fogo e pés polidos de bronze, Jesus está se revelando como aquele que está preparado para julgar o pecado e também os pecadores. 
- 
- A situação da igreja exigia a reafirmação da divindade de jesus e da indignação por seus pecados. As palavras bronze polido traduzem uma palavra rara no novo testamento que é chalkolibanon; de chalkos (bronze) + libanos (incenso). A ideia que essa palavra nos traz como seu significado é de um bronze queimado, assim como nós lemos na descrição de Cristo em apocalipse 1:15 e aqui no capítulo 2:18. Tantos olhos quanto os pés em chamas descrevem e enfatizam a indignação de cristo contra o pecado, os olhos julgam e os pés executam o juizo, e isso, portanto, nos faz entender porque Jesus está se revelando assim para igreja, porque ele é aquele que legisla e também executa a sua lei contra o pecado, obviamente essa descrição de jesus enfatiza sua autoridade na igreja como Filho de Deus para julgar as suas obras.
+## [Saudação e Auto-Descrição de Cristo](https://youtu.be/F2NJyftPy3g?t=1261)
 
- O poder penetrante do seu conhecimento, os seus olhos como chamas de fogo, o seu olhar penetrante que alcança o conhecimento de tudo o que está escondido tudo o que é da intimidade da igreja é associado aqui com a rapidez do seu julgamento, e isso tudo revela o zelo de cristo pela sua igreja. Ele conhece a igreja ele conhece tudo o que se passa no interior da igreja nada diante dos seus olhos pode ser escondido ou escapar do seu julgamento.
- 
- Ele conhece a realidade do seu povo, Tiatira estava se comprometendo com a idolatria e permitindo que uma falsa autoridade tentasse usurpar a autoridade de Cristo dentro dela, por isso que isso se revelou dessa forma para a igreja.
+- A carta foi enviada ao anjo da igreja (mensageiro/pastor/presbítero), que deveria lê-la publicamente.
+- Jesus se identifica como Filho de Deus, enfatizando Sua natureza divina e igualdade com o Pai.
+- Ele se apresenta com olhos como chama de fogo e pés semelhantes ao bronze polido.
+- Essas descrições simbolizam julgamento contra o pecado e os pecadores.
+- *Olhos em chamas*: Conhecimento penetrante (Sonda mentes e corações).
+- *Pés de bronze*: Preparado para executar o juízo (Ele legisla e executa Sua lei).
+- A revelação enfatiza a autoridade de Cristo na igreja e Seu zelo.
