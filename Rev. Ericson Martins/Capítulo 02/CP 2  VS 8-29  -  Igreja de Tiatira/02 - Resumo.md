@@ -14,10 +14,8 @@
 
 - A pedrinha branca significa a convicção que Deus dá pelo Espírito de que pertencemos a Ele.
 
-# Apocalipse
-## Rev. Ericson Martins
-### Apocalípse 2:8-29
-#### [Oração e Propósito do Estudo](https://youtu.be/F2NJyftPy3g?t=325)
+
+## [Oração e Propósito do Estudo](https://youtu.be/F2NJyftPy3g?t=325)
 
 - O expositor faz uma oração pedindo a Deus que fortaleça a fé dos ouvintes.
 - O propósito é que a igreja de Tiatira (e a igreja atual) tenha ousadia e coragem para combater os males internos.
@@ -26,3 +24,19 @@
 - As perdas terrenas (emprego, saúde, vida) não afetam a salvação eterna.
 - O livro do Apocalipse visa revelar a pessoa do Senhor Jesus como a esperança da igreja.
 - O dia da revelação de Jesus será um dia de imensa alegria para a igreja e de severo julgamento para os inimigos.
+
+# Apocalipse
+## Rev. Ericson Martins
+### Apocalípse 2:8-29
+#### [Contexto Histórico e Geográfico de Tiatira](https://youtu.be/F2NJyftPy3g?t=546)
+
+- Tiatira é atualmente chamada de Akhisar, localizada no noroeste da Turquia.
+- Era uma cidade menor que Pérgamo, mas um ponto importante no sistema viário romano, conectando Pérgamo e Laodiceia.
+- Era um centro vital para o comércio, especialmente de lãs tingidas com púrpura.
+- A tinta púrpura era muito cara, extraída de moluscos e usada pela realeza e aristocracia romana.
+- A cidade era conhecida por associações de comércio (cerâmica, bronze, couro, lã tingida).
+- Para prosperar, um comerciante precisava se associar a uma dessas organizações.
+- As associações tinham deuses patronais e promoviam festas imorais e idólatras.
+- *O cristão enfrentava um dilema*: aderir às associações e comprometer a fé ou operar informalmente e sofrer depreciação e dificuldades.
+- Lídia, uma vendedora de púrpura de Tiatira, era "temente a Deus" e, provavelmente, não se ligava à idolatria das organizações.
+- A crise dos cristãos era entre necessidade imediata (sustento) e a lealdade a Cristo.
