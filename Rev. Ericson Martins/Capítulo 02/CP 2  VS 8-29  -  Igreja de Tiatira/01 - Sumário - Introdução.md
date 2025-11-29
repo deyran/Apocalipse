@@ -1,6 +1,25 @@
-# À Igreja de Tiatira | Apocalípse 2:8-29
+# À Igreja de Tiatira - Sumário | Introdução
 
-## [Revisão da Carta a Pérgamo](https://youtu.be/F2NJyftPy3g?t=33)
+## Sumário
+
+* [00:33](https://youtu.be/F2NJyftPy3g?t=33)    - Recapitulação da igreja de Pérgamo e Oração inicial
+* [05:25](https://youtu.be/F2NJyftPy3g?t=325)   - Introdução geral e propósito
+* [09:06](https://youtu.be/F2NJyftPy3g?t=546)   - Introdução - Cidade de Tiatira
+* [18:12](https://youtu.be/F2NJyftPy3g?t=1092)  - Leitura - Apocalipse 2:18-29
+* [21:02](https://youtu.be/F2NJyftPy3g?t=1261)  - Apocalipse 2:18
+* [25:34](https://youtu.be/F2NJyftPy3g?t=1534)  - Apocalipse 2:19
+* [30:19](https://youtu.be/F2NJyftPy3g?t=1819)  - Apocalipse 2:20
+* [41:01](https://youtu.be/F2NJyftPy3g?t=2461)  - Apocalipse 2:21
+* [41:35](https://youtu.be/F2NJyftPy3g?t=2495)  - Apocalipse 2:22
+* [45:09](https://youtu.be/F2NJyftPy3g?t=2709)  - Apocalipse 2:23
+* [48:45](https://youtu.be/F2NJyftPy3g?t=2925)  - Apocalipse 2:24-25
+* [50:44](https://youtu.be/F2NJyftPy3g?t=3044)  - Apocalipse 2:26-27
+* [54:22](https://youtu.be/F2NJyftPy3g?t=3262)  - Apocalipse 2:28
+* [55:34](https://youtu.be/F2NJyftPy3g?t=3334)  - Apocalipse 2:29 
+
+## Introdução
+
+### [Revisão da Carta a Pérgamo](https://youtu.be/F2NJyftPy3g?t=33)
 
 - A Igreja de Pérgamo era fiel a Deus, resistindo a pressões externas e não negando a fé.
 - Internamente, a igreja tolerava a doutrina de Balaão e a doutrina dos Nicolaítas.
@@ -15,7 +34,7 @@
 - A pedrinha branca significa a convicção que Deus dá pelo Espírito de que pertencemos a Ele.
 
 
-## [Oração e Propósito do Estudo](https://youtu.be/F2NJyftPy3g?t=325)
+### [Oração e Propósito do Estudo](https://youtu.be/F2NJyftPy3g?t=325)
 
 - O expositor faz uma oração pedindo a Deus que fortaleça a fé dos ouvintes.
 - O propósito é que a igreja de Tiatira (e a igreja atual) tenha ousadia e coragem para combater os males internos.
@@ -25,10 +44,7 @@
 - O livro do Apocalipse visa revelar a pessoa do Senhor Jesus como a esperança da igreja.
 - O dia da revelação de Jesus será um dia de imensa alegria para a igreja e de severo julgamento para os inimigos.
 
-# Apocalipse
-## Rev. Ericson Martins
-### Apocalípse 2:8-29
-#### [Contexto Histórico e Geográfico de Tiatira](https://youtu.be/F2NJyftPy3g?t=546)
+### [Contexto Histórico e Geográfico de Tiatira](https://youtu.be/F2NJyftPy3g?t=546)
 
 - Tiatira é atualmente chamada de Akhisar, localizada no noroeste da Turquia.
 - Era uma cidade menor que Pérgamo, mas um ponto importante no sistema viário romano, conectando Pérgamo e Laodiceia.
