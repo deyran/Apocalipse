@@ -1,10 +1,10 @@
-# [À Igreja de Tiatira - Apocalipse 2:20](https://youtu.be/F2NJyftPy3g?t=1819)
+# [À Igreja de Tiatira - Apocalipse 2:20-23](https://youtu.be/F2NJyftPy3g?t=1819)
 
 ## Apocalipse 2:20
 
-No entanto, contra você tenho isto: você tolera Jezabel, aquela mulher que se diz profetisa. Com os seus ensinos, ela induz os meus servos à imoralidade sexual e a comerem alimentos sacrificados aos ídolos. 
+*No entanto, contra você tenho isto: você tolera Jezabel, aquela mulher que se diz profetisa. Com os seus ensinos, ela induz os meus servos à imoralidade sexual e a comerem alimentos sacrificados aos ídolos.*
 
-## Oposição e Repreensão de Cristo
+### Oposição e Repreensão de Cristo
 
 - Jesus honestamente declara sua oposição aos problemas internos.
 - O principal problema era a tolerância a uma mulher chamada Jezabel, que se declarava profetisa.
@@ -13,7 +13,7 @@ No entanto, contra você tenho isto: você tolera Jezabel, aquela mulher que se 
 - Muitos crentes estavam sendo convencidos e praticando o paganismo/imoralidade.
 - O problema central era a tolerância da igreja a essa falsa profetisa e seu ensino corruptor.
 
-## A Falsa Profetisa "Jezabel"
+### A Falsa Profetisa "Jezabel"
 
 - Jezabel simboliza falsos mestres que rejeitam a autoridade eclesiástica.
 - Agem em sigilo e desrespeitam a autoridade instituída.
@@ -26,3 +26,16 @@ No entanto, contra você tenho isto: você tolera Jezabel, aquela mulher que se 
 
 - Jezabel: Esposa pagã do rei Acabe, conhecida por instigar a idolatria em Israel.
 - A mulher de Tiatira, nomeada "Jezabel" ("não-nobreza"), imitava a personagem bíblica com má influência, perseguição e expansão de mentiras.
+
+## Apocalipse 2:21
+- *21* Dei‑lhe tempo para que se arrependa, mas ela não quer se arrepender da sua imoralidade.
+
+
+## Apocalipse 2:22
+- *22* Por isso, vou fazê‑la adoecer e trarei grande sofrimento aos que cometem adultério com ela, caso não se arrependam das obras incitadas por ela.
+
+## Apocalipse 2:23
+- *23*
+
+ 
+
