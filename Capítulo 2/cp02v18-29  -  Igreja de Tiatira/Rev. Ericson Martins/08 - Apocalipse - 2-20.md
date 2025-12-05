@@ -12,3 +12,20 @@ No entanto, contra você tenho isto: você tolera Jezabel, aquela mulher que se 
 - O ensino falso levava à prostituição e a comer coisas sacrificadas aos ídolos.
 - Muitos crentes estavam sendo convencidos e praticando o paganismo/imoralidade.
 - O problema central era a tolerância da igreja a essa falsa profetisa e seu ensino corruptor.
+
+# Capítulo 2 
+## À Igreja de Tiatira - cp02v18-29
+### Rev. Ericson Martins
+#### A Falsa Profetisa "Jezabel"
+
+- Jezabel simboliza falsos mestres que rejeitam a autoridade eclesiástica.
+- Agem em sigilo e desrespeitam a autoridade instituída.
+- A falsa profetisa de Tiatira promovia o mundanismo em nome da liberdade cristã.
+
+    - Participar das associações
+    - Ignorar a idolatria
+    - Sexo imora
+    - Comida sacrificada aos ídolos.
+
+- Jezabel: Esposa pagã do rei Acabe, conhecida por instigar a idolatria em Israel.
+- A mulher de Tiatira, nomeada "Jezabel" ("não-nobreza"), imitava a personagem bíblica com má influência, perseguição e expansão de mentiras.
