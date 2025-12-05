@@ -13,10 +13,7 @@ No entanto, contra você tenho isto: você tolera Jezabel, aquela mulher que se 
 - Muitos crentes estavam sendo convencidos e praticando o paganismo/imoralidade.
 - O problema central era a tolerância da igreja a essa falsa profetisa e seu ensino corruptor.
 
-# Capítulo 2 
-## À Igreja de Tiatira - cp02v18-29
-### Rev. Ericson Martins
-#### A Falsa Profetisa "Jezabel"
+## A Falsa Profetisa "Jezabel"
 
 - Jezabel simboliza falsos mestres que rejeitam a autoridade eclesiástica.
 - Agem em sigilo e desrespeitam a autoridade instituída.
