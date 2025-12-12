@@ -4,3 +4,7 @@
 #### Apocalipse 2:20-23
 
 Leia o texto abaixo, divida em pontos importantes fazendo o resumo sucinto de cada ponto. Apresente as ideia de cada ponto em forma de lista simples, ideia por ideia
+
+Resuma sucintamente, preservando a ideia central a seguinte sentença:
+
+"Jezabel teve a oportunidade de arrependimento (graça divina), mas preferiu desprezá-la"
