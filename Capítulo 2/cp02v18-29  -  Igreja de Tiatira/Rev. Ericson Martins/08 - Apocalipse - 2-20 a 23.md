@@ -41,6 +41,7 @@
 - Primeiro Juízo: *Eis que a prostro de cama*
 
     - Doença ou lesão física grave.
+    - Cristo condenou a mulher a permanecer prostrada em um estado de corrupção permanente.
     - Foi para cama com muitos, foi condenada a permanecer nela irreversívelmente.
 
 - Segundo Juízo: *bem como em grande tribulação os que com ela adulteram, caso não se arrependam das obras que ela incita.*
@@ -48,6 +49,15 @@
     - Os companheiros de prostituição: Advertência de sofrimento de grande tormento caso não se arrependam.
     - Seguir falsos mestres leva a um mau caminho.
     - Cristo é vingador do Pecado
+
+        - Má conduta.
+        - Prostituíção.
+        - Imoralidade.
+        - Corrupção doutrinária.
+
+- A persistência no erro e a falta de arrependimento resultam em punição rigorosa.
+- Essa advertência de Cristo é direcionada aos membros da Igreja, não aos ímpios.
+- Vem com advertência para sofrimento ainda nesta vida.
     
-## Apocalipse 2:23
+## [Apocalipse 2:23](https://youtu.be/F2NJyftPy3g?t=2709)
 - *23*
