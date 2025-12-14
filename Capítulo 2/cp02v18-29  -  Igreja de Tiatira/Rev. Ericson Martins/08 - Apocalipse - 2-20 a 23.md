@@ -38,13 +38,13 @@
 
 *Eis que a prostro de cama, bem como em grande tribulação os que com ela adulteram, caso não se arrependam das obras que ela incita.*
 
-- Primeiro Juízo: *Eis que a prostro de cama*
+- Primeiro Punição: *Eis que a prostro de cama*
 
     - Doença ou lesão física grave.
     - Cristo condenou a mulher a permanecer prostrada em um estado de corrupção permanente.
     - Foi para cama com muitos, foi condenada a permanecer nela irreversívelmente.
 
-- Segundo Juízo: *bem como em grande tribulação os que com ela adulteram, caso não se arrependam das obras que ela incita.*
+- Segundo Punição: *bem como em grande tribulação os que com ela adulteram, caso não se arrependam das obras que ela incita.*
 
     - Os companheiros de prostituição: Advertência de sofrimento de grande tormento caso não se arrependam.
     - Seguir falsos mestres leva a um mau caminho.
@@ -60,4 +60,23 @@
 - Vem com advertência para sofrimento ainda nesta vida.
     
 ## [Apocalipse 2:23](https://youtu.be/F2NJyftPy3g?t=2709)
-- *23*
+
+*Matarei os seus filhos, e todas as igrejas conhecerão que eu sou aquele que sonda mentes e corações, e vos darei a cada um segundo as vossas obras.*
+
+- Terceira Punição
+
+    - Morte dos Filhos da Mulher.
+    - Exterminação de suas heranças culturais.
+
+        - Transmissão Intergeracional.
+        - Identidade e Memória.
+        - Dinamismo e Adaptação.
+        - Diversidade.
+
+    - Neutralizar aqueles que eram da mesma natureza daquela mulher.
+
+- Testemunho público da justa aplicação do juízo de Cristo.
+
+    - Todas as igrejas saberão que Cristo é quem sonda mentes e corações.
+    - Ele dará a cada um "segundo as vossas obras".
+    - É a vingança de Cristo contra seus inimigos.
