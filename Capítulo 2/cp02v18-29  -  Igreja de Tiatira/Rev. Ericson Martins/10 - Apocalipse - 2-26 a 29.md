@@ -9,8 +9,9 @@
     - "Lâmpada para os meus pés é a tua palavra e, luz para os meus caminhos." Salmos 119:105
     - Sem essa atenção nos perdemos facilmente.
 
-    - "até ao fim as minhas obras"
-    - Observar atentamente o que foi recebido pela palavra de Deus a vinda de Cristo.
+    - *até ao fim as minhas obras*
+
+        - Observar atentamente o que foi recebido pela palavra de Deus a vinda de Cristo.
 
 - *eu lhe darei autoridade sobre as nações com cetro de ferro as regerá*
 
