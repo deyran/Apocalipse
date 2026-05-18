@@ -30,4 +30,17 @@
 
 ## [28 *assim como também eu recebi de meu Pai, dar-lhe-ei ainda a estrela da manhã.*](https://youtu.be/F2NJyftPy3g?t=3223) 
 
-## 29 *Quem tem ouvidos, ouça o que o Espírito diz às igrejas.*
+    - Ressureto, Jesus foi descrito como Estrela da manhã em Ap 22:16:
+
+        "Eu, Jesus, enviei o meu anjo para dar a vocês este testemunho concernente às igrejas. Eu sou a Raiz e o Descendente de Davi, a resplandecente Estrela da Manhã."
+
+    - Declarou sua autoridade em Mt 28:18
+
+        "Então, Jesus se aproximou deles e lhes disse: Toda a autoridade me foi dada nos céus e na terra."
+
+    - Ambas referências, v27 e v28, se relacionam com a claridade do sol que governa o dia.
+    - Portanto diz respeito ao esplendor da autoridade de Cristo por acosião do seu retorno.
+    - Cristo comportilhará sua realeza e autoridade -> "Assim como também ... dar-lhe-ei".
+    - Os salvos terão autoridade para julgar e reger as nações "... com  cetro de ferro".
+    
+## [29 *Quem tem ouvidos, ouça o que o Espírito diz às igrejas.*](https://youtu.be/F2NJyftPy3g?t=3334)
