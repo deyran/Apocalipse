@@ -1,11 +1,12 @@
-# Sumário
 
-- [00:00:00 - 1. Leitura e Tema](https://youtu.be/9R29RE6IpV4?si=5hdiao4-nLjNON_l)
+- [00:00:00 - 1. Introdução](https://youtu.be/9R29RE6IpV4?si=aWpobULiJfmj5gnI)
 
-	- Apocalipse 3:1-6
+	- Leitura - Apocalipse 3:1-6
 	- Tema: Reavivamento ou Sepultamento
 
 - [00:01:47 - 2. Contexto histórico, cultural e religioso](https://youtu.be/9R29RE6IpV4?t=108)
+
+	- A história da igreja de Sardes tem a ver com a história da cidade de Sardes
 
 - [00:05:40 - 3. Degeneração Moral de Sardes e da Igreja](https://youtu.be/9R29RE6IpV4?t=340)
 
