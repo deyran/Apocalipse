@@ -17,3 +17,8 @@
 	1. Os mortos (não convertidos)
 	2. Os sonolentos (precisam acordar)
 	3. Um pequeno remanescente fiel
+
+# 02 - A necessidade de reavivamento
+
+- [08:48](https://youtu.be/9R29RE6IpV4?t=528)
+- 
