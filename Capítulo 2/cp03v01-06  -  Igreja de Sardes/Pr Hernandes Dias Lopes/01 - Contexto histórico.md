@@ -1,6 +1,6 @@
 - [01:49](https://youtu.be/9R29RE6IpV4?t=109)
 
-- **Glória do passado vs. Ruína no presente**: Foi a rica capital da Lídia no tempo do rei Creso, mas passou a viver apenas de reputação de sua antiga opulência
+- **Glória do passado vs. Ruína no presente**: Foi a rica capital da Lídia no tempo do [[rei Creso]], mas passou a viver apenas de reputação de sua antiga opulência
 
 - **Falsa sensação de segurança**: Situada no topo de uma colina fortificada, a cidade se achava inexpugnável
 
