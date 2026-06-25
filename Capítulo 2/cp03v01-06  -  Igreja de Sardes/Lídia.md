@@ -1,0 +1,1 @@
+- Região da Ásia menor atual Turquia
