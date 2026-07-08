@@ -15,30 +15,8 @@
 
 - Grande parte das das informações sobre seu reinado vem do historiador Heródoto [[#^note-1|[1]]]
 - Embora alguns historiadores tenham afirmado que Creso foi uma figura lendária, a existência de uma inscrição na base de uma coluna do Templo de Ártemis serve como evidência de que ele foi um rei histórico [[#^note-1|[1]]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Referências
 
 1. MARK, Joshua J. **Creso**. Tradução de Ricardo Albuquerque. World History Encyclopedia, 6 out. 2024. Disponível em: [https://www.worldhistory.org/trans/pt/1-323/creso/](https://www.worldhistory.org/trans/pt/1-323/creso/). Acesso em: 25 jun. 2026. ^note-1
-
-# XX
-https://en.wikipedia.org/wiki/Croesus
-
-https://www.ibdcult.org/post/a-ru%C3%ADna-do-rei-creso-e-a-deusa-n%C3%AAmesis-os-direitos-culturais-brasileiros-frente-ao-tarifa%C3%A7o-norte-a
+2. https://en.wikipedia.org/wiki/Croesus
+3. https://www.ibdcult.org/post/a-ru%C3%ADna-do-rei-creso-e-a-deusa-n%C3%AAmesis-os-direitos-culturais-brasileiros-frente-ao-tarifa%C3%A7o-norte-a
