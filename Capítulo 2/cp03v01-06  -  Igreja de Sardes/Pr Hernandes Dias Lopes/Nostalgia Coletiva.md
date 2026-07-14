@@ -1,0 +1,2 @@
+- Perdeu sua relevância real, seu poder econômico e seu dinamismo no presente
+- **Contraste entre o presente e o passado**: A glória que a cidade desfrutou sob o reinado de Creso já não existe mais. O brilho de outrora tornou-se apenas uma memória.
