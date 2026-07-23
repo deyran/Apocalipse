@@ -1,0 +1,1 @@
+- Essa falsa sensação de segurança dos habitantes de Sardes é fundamental para compreender Apocalipse 3:1-6

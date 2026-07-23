@@ -2,7 +2,7 @@
 
 - **Glória do passado vs. Ruína no presente**: Sardes foi a rica capital da [[Lídia]] no tempo do [[Rei Creso]], mas passou a viver apenas de reputação de sua antiga opulência. [[Nostalgia Coletiva]] 
 
-- **Falsa sensação de segurança**: Situada no topo de uma colina fortificada, a cidade se achava inexpugnável
+- **[[Falsa sensação de segurança]]**: Situada no topo de uma colina fortificada, a cidade se achava inexpugnável
 
 - **Queda pela falta de vigilância**: Foi invadida duas vezes na história (por Ciro e por Antíoco Epifânio) porque seus saldados dormiram e relaxaram a guarda, permitindo a entrada do inimigo por fendas nas muralhas
 
