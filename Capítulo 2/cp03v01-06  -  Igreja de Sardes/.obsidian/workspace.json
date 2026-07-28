@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e9f24df3448f2f79",
@@ -185,6 +186,8 @@
   },
   "active": "ff95bff23cae02eb",
   "lastOpenFiles": [
+    "Pr Hernandes Dias Lopes/Acrópole Sardes Tmolo.png",
+    "Acrópole Sardes Tmolo.png",
     "Pr Hernandes Dias Lopes/01 - Contexto histórico.md",
     "Pr Hernandes Dias Lopes/Falsa sensação de segurança.md",
     "Pr Hernandes Dias Lopes/Nostalgia Coletiva.md",
