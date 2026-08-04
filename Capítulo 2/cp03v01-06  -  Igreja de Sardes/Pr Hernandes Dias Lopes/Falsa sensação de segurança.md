@@ -5,4 +5,3 @@
 ![[Acrópole Sardes Tmolo.png]]
 
 - Militarmente, a posição era quase inacessível; portanto, inexpugnável.
-- AA
