@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d1172b70ad31204b",
+        "id": "7720eefff843fe53",
         "type": "tabs",
         "children": [
           {
-            "id": "ff95bff23cae02eb",
+            "id": "1429527a0a7a0110",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pr Hernandes Dias Lopes/Falsa sensação de segurança.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Falsa sensação de segurança"
+              "title": "New tab"
             }
           }
         ]
@@ -80,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e9f24df3448f2f79",
@@ -186,12 +181,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff95bff23cae02eb",
+  "active": "1429527a0a7a0110",
   "lastOpenFiles": [
+    "Pr Hernandes Dias Lopes/Queda pela falta de vigilância.md",
+    "Pr Hernandes Dias Lopes/Falsa sensação de segurança.md",
+    "Pr Hernandes Dias Lopes/01 - Contexto histórico.md",
     "Pr Hernandes Dias Lopes/Acrópole Sardes Tmolo.png",
     "Acrópole Sardes Tmolo.png",
-    "Pr Hernandes Dias Lopes/01 - Contexto histórico.md",
-    "Pr Hernandes Dias Lopes/Falsa sensação de segurança.md",
     "Pr Hernandes Dias Lopes/Nostalgia Coletiva.md",
     "Pr Hernandes Dias Lopes/Lídia.md",
     "Pr Hernandes Dias Lopes/00 - Leitura e Tema.md",

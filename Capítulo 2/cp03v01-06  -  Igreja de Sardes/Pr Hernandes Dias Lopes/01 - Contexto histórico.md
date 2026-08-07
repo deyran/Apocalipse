@@ -4,7 +4,7 @@
 
 - **[[Falsa sensação de segurança]]**: Situada no topo de uma colina fortificada, a cidade se achava inexpugnável
 
-- **Queda pela falta de vigilância**: Foi invadida duas vezes na história (por Ciro e por Antíoco Epifânio) porque seus saldados dormiram e relaxaram a guarda, permitindo a entrada do inimigo por fendas nas muralhas
+- **[[Queda pela falta de vigilância]]**: Foi invadida duas vezes na história (por Ciro e por Antíoco Epifânio) porque seus saldados dormiram e relaxaram a guarda, permitindo a entrada do inimigo por fendas nas muralhas
 
 - **Idolatria local**: Adoração a deusa Cibele, a quem os cidadãos falsamente atribuíam o poder de ressuscitar os mortos
 
