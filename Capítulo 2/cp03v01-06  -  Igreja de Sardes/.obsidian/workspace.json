@@ -11,10 +11,14 @@
             "id": "1429527a0a7a0110",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Pr Hernandes Dias Lopes/Queda pela falta de vigilância.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Queda pela falta de vigilância"
             }
           }
         ]
@@ -76,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e9f24df3448f2f79",
@@ -183,9 +188,10 @@
   },
   "active": "1429527a0a7a0110",
   "lastOpenFiles": [
+    "Pr Hernandes Dias Lopes/01 - Contexto histórico.md",
+    "Pr Hernandes Dias Lopes/02 - A necessidade de reavivamento.md",
     "Pr Hernandes Dias Lopes/Queda pela falta de vigilância.md",
     "Pr Hernandes Dias Lopes/Falsa sensação de segurança.md",
-    "Pr Hernandes Dias Lopes/01 - Contexto histórico.md",
     "Pr Hernandes Dias Lopes/Acrópole Sardes Tmolo.png",
     "Acrópole Sardes Tmolo.png",
     "Pr Hernandes Dias Lopes/Nostalgia Coletiva.md",
@@ -204,7 +210,6 @@
     "Pr Hernandes Dias Lopes/05 - As bênçãos do reavivamento.md",
     "Pr Hernandes Dias Lopes/04 - O Agente do Reavivamento.md",
     "Pr Hernandes Dias Lopes/03 - Os Imperativos do Reavivamento.md",
-    "Pr Hernandes Dias Lopes/02 - A necessidade de reavivamento.md",
     "Pr Hernandes Dias Lopes",
     "Welcome.md"
   ]
