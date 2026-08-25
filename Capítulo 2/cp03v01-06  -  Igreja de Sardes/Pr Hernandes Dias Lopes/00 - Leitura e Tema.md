@@ -1,3 +1,0 @@
-- [00:00](https://youtu.be/9R29RE6IpV4?si=aWpobULiJfmj5gnI)
-- Apocalipse 3:1-6
-- Reavivamento ou Sepultamento
