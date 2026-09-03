@@ -1,4 +1,4 @@
- Na Antiguidade, a deusa Cibele era a principal divindade tutelar e protetora de Sardes, capital da Lídia. [1](#^ref1)
+ Na Antiguidade, a deusa Cibele era a principal divindade tutelar e protetora de Sardes, capital da [[Lídia]]. [1](#^ref1)
 
 ### Referências Bibliográficas
 
