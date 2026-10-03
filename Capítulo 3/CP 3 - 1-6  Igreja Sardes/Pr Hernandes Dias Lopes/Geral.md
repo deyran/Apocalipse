@@ -21,7 +21,7 @@ O tema desta mensagem é: **Reavivamento ou Sepultamento?** A história da igrej
 
 A glória de Sardes estava no seu passado. Foi uma importantíssima cidade antiga, mormente no século VII a.C., capital da Lídia, e atingiu seu apogeu no tempo do rei Creso — conhecido quase legendariamente no mundo pela sua riqueza e opulência. Era de fato uma das cidades mais magníficas do mundo antigo.
 
-Não obstante a sua riqueza, aquela cidade ainda tinha uma posição estratégica, por isso era uma cidade militar. Ficava ela encravada no alto de uma colina, amuralhada e fortificada; sentia-se inatingível, inconquistável, inexpugnável. Os seus habitantes chegaram a pensar que jamais cairiam nas mãos dos adversários. De fato, aquela cidade nunca veio a ser derrotada por um confronto direto, mas aquela cidade orgulsosa, soberba e altiva caiu nas mãos do rei Ciro, no período do seu apogeu, em 546 a.C. 
+Não obstante a sua riqueza, aquela cidade ainda tinha uma posição estratégica, por isso era uma cidade militar. Ficava ela encravada no alto de uma colina, amuralhada e fortificada; sentia-se inatingível, inconquistável, inexpugnável. Os seus habitantes chegaram a pensar que jamais cairiam nas mãos dos adversários. De fato, aquela cidade nunca veio a ser derrotada por um confronto direto, mas aquela cidade orgulhosa, soberba e altiva caiu nas mãos do rei Ciro, no período do seu apogeu, em 546 a.C. 
 
 Ciro cercou a cidade por 14 dias e estrategicamente estudou a maneira de invadi-la. Em virtude da confiança excessiva de seus habitantes e soldados, um soldado persa penetrou por uma fenda na muralha e encontrou toda a cidade dormindo e desatenta. Desta forma, ele abriu as portas da cidade, invadiu e a tomou na surdina da noite. Por essa razão, aquela igreja entendia perfeitamente a linguagem de Jesus Cristo: 
 
@@ -158,7 +158,12 @@ Esta Palavra precisa inquietar a sua alma e a minha, levando-nos a uma reflexão
 	- **Apogeu e Riqueza**: Atingiu o topo de sua prosperidade sob o reinado do rei Creso, famoso por sua opulência e pelas reservas de ouro da região.
 	- **Esplendor**: Foi considerada uma das cidades mais magníficas do mundo antigo.
 	- Assim como a cidade confiava em suas fortalezas naturais e na sua glória passada (mas acabou caindo de surpresa), a igreja de Sardes tinha "nome de que vivia, mas estava morta (Ap 3:1)".
-- Sensação de invencibilidade (Posição no alto da colina).
+- Falsa segurança e sensação de invencibilidade (Posição geográfica)
+	- **Posição Estratégica**: Edificada no top de uma coluna íngreme e protegida por acentuados desfiladeiros, Sades possuía um posicionamento militar invejável.
+	- **Fortificação**: Suas muralhas imponentes faziam com que parecesse inatingível, inconquistável e inexpugnável a qualquer ataque frontal.
+	- **Arrogância e Complacência**: Convencidos de sua segurança, os moradores viviam na ilusão de que a cidade jamais seria tomada por inimigos.
+	- **A Causa da Queda**: A autoconfiança gerou descuido. A soberba, o orgulho e a falta de vigilância foram a causa das suas invasões históricas.
+	- **Conexão com Apocalipse 3:2-3**: Assim como a cidade confiou em suas defesas e foi surpreendida "como um ladrão" por falta de vigias nas muralhas, Jesus exorta a Igreja de Sardes e despertar e vigiar, pois uma aparência de força não garante a sobrevivência espiritual.
 - Cedeu por falta de vigilância (tomada por assalto 2 vezes).
 - Culto a deusa Cibele (Crença de ressuscitar mortos).
 - Cidade rica, mas degenerada, devassa e lasciva.
