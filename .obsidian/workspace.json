@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "900625bd67e05438",
+    "id": "876e25bdd1fb07a9",
     "type": "split",
     "children": [
       {
-        "id": "e4afaac6675e9d6e",
+        "id": "b9ed87897e250dc9",
         "type": "tabs",
         "children": [
           {
-            "id": "0f0a9a3b19ddb523",
+            "id": "d2dc6adf60484044",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pr Hernandes Dias Lopes/TMP.md",
+                "file": "Capítulo 3/CP 3 - 1-6  Igreja Sardes/Pr Hernandes Dias Lopes/Geral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TMP"
+              "title": "Geral"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3646d4119559589a",
+    "id": "2892ed3dcfac9571",
     "type": "split",
     "children": [
       {
-        "id": "5182fc6aeedaa770",
+        "id": "d6fad608580bd362",
         "type": "tabs",
         "children": [
           {
-            "id": "21ce017ed87fab71",
+            "id": "6e802475fdd698ec",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "9b7100133ef6383e",
+            "id": "9ebad991bcd1a7df",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,11 +67,14 @@
             }
           },
           {
-            "id": "08a6d8741cb77bdb",
+            "id": "76055592e099f7b7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -80,24 +83,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "e9f24df3448f2f79",
+    "id": "8d6e49df6f53e368",
     "type": "split",
     "children": [
       {
-        "id": "ec754a0e5134432f",
+        "id": "5c985673486318a3",
         "type": "tabs",
         "children": [
           {
-            "id": "24a6270dbceba23a",
+            "id": "92e66777ab5a950d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pr Hernandes Dias Lopes/Transcrição.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,25 +108,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Transcrição"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "96cf3864166096ca",
+            "id": "0ca9ef079eed86a5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pr Hernandes Dias Lopes/Transcrição.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Transcrição"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "01647c55f88b9fc4",
+            "id": "8f822700a1c199a3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +140,7 @@
             }
           },
           {
-            "id": "a03b0b002dc64054",
+            "id": "67e27d33451002e2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,18 +154,17 @@
             }
           },
           {
-            "id": "fd185c42b9f2daa9",
+            "id": "abb5dafa4bb0e784",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pr Hernandes Dias Lopes/Transcrição.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transcrição"
+              "title": "Outline"
             }
           }
         ]
@@ -186,33 +185,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "0f0a9a3b19ddb523",
+  "active": "d2dc6adf60484044",
   "lastOpenFiles": [
-    "Pr Hernandes Dias Lopes/Deusa Cibele.md",
-    "Pr Hernandes Dias Lopes/TMP.md",
-    "Pr Hernandes Dias Lopes/01 - Contexto histórico.md",
-    "Pr Hernandes Dias Lopes/Lídia.md",
-    "Pr Hernandes Dias Lopes/Queda pela falta de vigilância.md",
-    "Pr Hernandes Dias Lopes/00 - Leitura, Tema e referência.md",
-    "Pr Hernandes Dias Lopes/Rei Creso.md",
-    "Pr Hernandes Dias Lopes/Nostalgia Coletiva.md",
-    "Pr Hernandes Dias Lopes/Falsa sensação de segurança.md",
-    "Pr Hernandes Dias Lopes/Acrópole Sardes Tmolo.png",
-    "AP03-06.md",
-    "AP03-05.md",
-    "AP03-04.md",
-    "AP03-03.md",
-    "AP03-02.md",
-    "AP03-01.md",
-    "Pr Hernandes Dias Lopes/02 - A necessidade de reavivamento.md",
-    "Acrópole Sardes Tmolo.png",
-    "Lídia.md",
-    "Rei Creso.md",
-    "Pasted image 20260629061220.png",
-    "Pr Hernandes Dias Lopes/05 - As bênçãos do reavivamento.md",
-    "Pr Hernandes Dias Lopes/04 - O Agente do Reavivamento.md",
-    "Pr Hernandes Dias Lopes/03 - Os Imperativos do Reavivamento.md",
-    "Pr Hernandes Dias Lopes",
-    "Welcome.md"
+    "Capítulo 3/CP 3 - 1-6  Igreja Sardes/TMP.md"
   ]
 }
