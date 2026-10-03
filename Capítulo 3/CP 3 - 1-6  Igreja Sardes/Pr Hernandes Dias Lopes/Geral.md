@@ -164,6 +164,9 @@ Esta Palavra precisa inquietar a sua alma e a minha, levando-nos a uma reflexão
 	- **Arrogância e Complacência**: Convencidos de sua segurança, os moradores viviam na ilusão de que a cidade jamais seria tomada por inimigos.
 	- **A Causa da Queda**: A autoconfiança gerou descuido. A soberba, o orgulho e a falta de vigilância foram a causa das suas invasões históricas.
 	- **Conexão com Apocalipse 3:2-3**: Assim como a cidade confiou em suas defesas e foi surpreendida "como um ladrão" por falta de vigias nas muralhas, Jesus exorta a Igreja de Sardes e despertar e vigiar, pois uma aparência de força não garante a sobrevivência espiritual.
+	- **Links relacionados** 
+		- [[Queda pela falta de vigilância]]
+		- [[Falsa sensação de segurança]]
 - Cedeu por falta de vigilância (tomada por assalto 2 vezes).
 - Culto a deusa Cibele (Crença de ressuscitar mortos).
 - Cidade rica, mas degenerada, devassa e lasciva.
